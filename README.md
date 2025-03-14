@@ -31,4 +31,9 @@ Para enviar as mudanças para o repositório remoto
 ```
 git push
 ```
+Para puxar as mudanças do repositório remoto para o local
+
+```
+git pull
+```
 
