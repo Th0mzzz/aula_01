@@ -1,6 +1,6 @@
 # Aula 01 - Web Development
 
-<h3>Aprendendo sobre git e github</h3>
+<h3>Aprendendo sobre Git e Github</h3>
 
 Para criar um repositório:
 
