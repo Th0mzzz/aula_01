@@ -36,4 +36,23 @@ Para puxar as mudanças do repositório remoto para o local
 ```
 git pull
 ```
+Para criar uma nova branch
+```
+git branch
+```
+Para publicar a branch
+```
+git push --set-upstream origin newBranch
+```
+Para começar a trabalhar ou checar uma branch
+```
+git checkout nomeDaBranch
+```
+Para criar e já começar a usar a branch
+```
+git checkout -b nomeDaBranch
+```
+
+
+
 
